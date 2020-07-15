@@ -1,0 +1,96 @@
+.Contenedor{
+    background-image: url(fondo.jpg);
+    padding: 1mm;
+}
+.ContenedorG{
+    background: lightskyblue;
+    overflow: hidden;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 20px;
+}
+.Contenedor1{
+    background:rgb(151, 151, 119);
+    padding: 10px;
+    overflow: hidden;
+    display: flex;
+}
+#Letra1{
+    font-family: 'Times New Roman', Times, serif;
+    color:brown;
+    text-align: center;
+    font-size: 35px;
+}
+.Letra2{
+    background-color: cadetblue;
+    padding: 10px;
+    width: 100%;
+    margin-left: 0px;
+    border-radius: 5px;
+    font-size: 25px;
+}
+.Letra3{
+    background-color: cadetblue;
+    padding: 0px;
+    width: 100%;
+    margin-left: 0px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 25px;
+}
+.tabla1{
+    width: 80%;
+    background-color: beige;
+    color: black;
+    border-collapse: collapse;
+    border-radius: 10px;
+    margin-left: 10px;
+    text-align: center;
+    margin:  auto;
+}
+.tabla2{
+    width: 80%;
+    background-color: beige;
+    color: black;
+    border-collapse: collapse;
+    border-radius: 10px;
+    margin-left: 10px;
+    text-align: center;
+    margin:  auto;
+}
+
+td{
+  padding: 2px;
+  border: 1px solid;
+}
+.td2{
+    padding: 2px;
+  }
+img{
+    display:block;
+    margin:auto;
+    }
+.parrafo2{
+    padding: 20px;
+}
+
+.izquierda{
+    margin-left: 10px;
+    color: #fff;
+    width: 20%;
+    padding: 0px;
+    background: #039;
+    border-radius: 20px;
+    align-self: stretch;
+}
+.derecha{
+    margin-left: 10px;
+    color: #fff;
+    width: 77%;
+    
+    background: #039;
+    align-self: stretch;
+    border-radius: 20px;
+}
